@@ -22,7 +22,7 @@ const MenueCard = ({menueData}) => {
                         <div className="card-read">read</div>
                     </div>
                     <img src={image} alt="images" className="card-media" /> 
-                    <span className="card-tag subtle">orer</span>
+                    <span className="card-tag subtle">order</span>
                 </div>
             </div>    
             </>
